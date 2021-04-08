@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Matheusrodrigos1
+- 👀 I’m interested in development web and mobile
+- 🌱 I’m currently learning javascript
